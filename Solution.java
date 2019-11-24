@@ -24,7 +24,7 @@ public class Solution {
  * SAMPLE:
  * original message 1 1 0 0 1
  * shift            0 1 1 0 0 1
- * shift 			      0 0 1 1 0 0 1
+ * shift0 0 1 1 0 0 1
  * shift     		    0 0 0 1 1 0 0 1
  * shift     		    0 0 0 0 1 1 0 0 1 							
  * ---------------------------------------------------------------
