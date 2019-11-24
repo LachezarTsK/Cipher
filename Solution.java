@@ -22,13 +22,13 @@ public class Solution {
  * ----------------------------------------------------
  *
  * SAMPLE:
- * original message => 1 1 0 0 1
- * shift          => 0 1 1 0 0 1
- * shift 			 => 0 0 1 1 0 0 1
- * shift     		  => 0 0 0 1 1 0 0 1
- * shift     		  => 0 0 0 0 1 1 0 0 1 							
+ * original message 1 1 0 0 1
+ * shift            0 1 1 0 0 1
+ * shift 			      0 0 1 1 0 0 1
+ * shift     		    0 0 0 1 1 0 0 1
+ * shift     		    0 0 0 0 1 1 0 0 1 							
  * ---------------------------------------------------------------
- * coded message    => 1 0 0 0 1 0 1 1 1
+ * coded message    1 0 0 0 1 0 1 1 1
  *
  * If A ^ B = C, then from the associative and self-inversive properties of XOR, 
  * A ^ (B ^ B) = C ^ B and A = C ^ B. 
