@@ -23,10 +23,10 @@ public class Solution {
  *
  * SAMPLE:
  * original message => 1 1 0 0 1
- * shift            => 0 1 1 0 0 1
- * shift 			      => 0 0 1 1 0 0 1
- * shift     		    => 0 0 0 1 1 0 0 1
- * shift     		    => 0 0 0 0 1 1 0 0 1 							
+ * shift          => 0 1 1 0 0 1
+ * shift 			    => 0 0 1 1 0 0 1
+ * shift     		  => 0 0 0 1 1 0 0 1
+ * shift     		  => 0 0 0 0 1 1 0 0 1 							
  * ---------------------------------------------------------------
  * coded message    => 1 0 0 0 1 0 1 1 1
  *
